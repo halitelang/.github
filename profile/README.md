@@ -26,6 +26,8 @@ Halite source files have a `.hal` extension.
 
 ### Compilation
 
+HALC IS NOT YET COMPLETED!! THIS WILL NOT WORK!
+
 Halite is compiled using the Bun runtime. To compile a Halite program, use the following command:
 
 ```bash

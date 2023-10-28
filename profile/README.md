@@ -22,7 +22,7 @@ Halite source files have a `.hal` extension.
 ## Getting Started
 
 ### Prerequisites
-- Install [Bun](https://github.com/bun/bun) - the all-in-one JavaScript runtime which is needed for halc, the halite compiler
+- Install [Bun](https://bun.sh/) - the all-in-one JavaScript runtime which is needed for halc, the halite compiler
 
 ### Compilation
 

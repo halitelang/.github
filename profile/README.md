@@ -42,4 +42,4 @@ Halite is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries, issues, or feedback, please [open an issue on GitHub](https://github.com/halite/halc/issues).
+For any inquiries, issues, or feedback, please [open an issue on GitHub](https://github.com/halitelang/halc/issues).

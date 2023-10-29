@@ -31,7 +31,7 @@ HALC IS NOT YET COMPLETED!! THIS WILL NOT WORK!
 Halite is compiled using the Bun runtime. To compile a Halite program, use the following command:
 
 ```bash
-bun run compile <file>.hal
+bun run compile ./<file>.hal
 ```
 
 Replace `<file>` with the name of your Halite source file.

@@ -12,7 +12,6 @@ Halite is a general-purpose programming language designed with simplicity, reada
 - Extensive but modular standard library
 - Debugging and profiling tools
 - Multiple build systems support
-- Transpilation capability
 - Standalone executables
 
 ## File Extension
@@ -21,20 +20,7 @@ Halite source files have a `.hal` extension.
 
 ## Getting Started
 
-### Prerequisites
-- Install [Bun](https://bun.sh/) - the all-in-one JavaScript runtime which is needed for halc, the halite compiler
-
-### Compilation
-
-HALC IS NOT YET COMPLETED!! THIS WILL NOT WORK!
-
-Halite is compiled using the Bun runtime. To compile a Halite program, use the following command:
-
-```bash
-bun run compile ./<file>.hal
-```
-
-Replace `<file>` with the name of your Halite source file.
+This is being worked on, we have not yet chosen a way to do this.
 
 ## License
 

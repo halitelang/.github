@@ -20,7 +20,7 @@ Halite source files have a `.hal` extension.
 
 ## Getting Started
 
-This is being worked on, we have not yet chosen a way to do this.
+See the [halc README](https://github.com/halitelang/halc).
 
 ## License
 

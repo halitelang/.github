@@ -8,6 +8,7 @@ Halite is a general-purpose programming language designed with simplicity, reada
 - Minimalist and readable syntax
 - Strong static type system with optional type inference
 - Garbage collection
+- An "Unsafe Mode" where you can disable multiple safety features, for example garbage collection letting you manage memory yourself
 - Support for parallelism using fibers
 - Extensive but modular standard library
 - Debugging and profiling tools
